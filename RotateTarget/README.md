@@ -2,7 +2,7 @@
 
 アタッチしたオブジェクトを回転させるスクリプト<br>
 
-![参考動画](https://www.youtube.com/watch?v=kahoCsYI9o8)
+[![再生不可](https://www.youtube.com/watch?v=kahoCsYI9o8)
 
 ## 使い方
 1.RotateTargetを回転させたいオブジェクトにアタッチする<br>
