@@ -1,7 +1,7 @@
 # RotateTarget
 
 アタッチしたオブジェクトを回転させるスクリプト<br>
-###参考動画
+### 参考動画
 [![再生不可](http://img.youtube.com/vi/kahoCsYI9o8/0.jpg)](https://www.youtube.com/watch?v=kahoCsYI9o8)
 
 ## 使い方
